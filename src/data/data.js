@@ -4,19 +4,12 @@ import css from "../images/skills/css.svg";
 import javascript from "../images/skills/javascript.svg";
 import python from "../images/skills/python.svg";
 import reactjs from "../images/skills/react.svg";
-//import styledComponents from "../images/skills/styled-components.svg";
 import node from "../images/skills/node.svg";
 import mongodb from "../images/skills/mongo.svg";
-
 import git from "../images/skills/git.svg";
 import springboot from "../images/skills/icons8-spring-boot.svg";
 import java from "../images/skills/java.svg";
 import docker from "../images/skills/docker.svg";
-import typescript from "../images/skills/typescript.svg";
-
-// ###########
-// skills
-// ###########
 
 export const skills = [
   {
@@ -39,7 +32,6 @@ export const skills = [
     title: "Java",
     icon: java,
   },
-
   {
     id: 5,
     title: "ReactJs",
@@ -55,7 +47,6 @@ export const skills = [
     title: "Nodejs",
     icon: node,
   },
-  ,
   {
     id: 8,
     title: "MongoDB",
@@ -71,7 +62,6 @@ export const skills = [
     title: "Docker",
     icon: docker,
   },
-
   {
     id: 12,
     title: "Python",
