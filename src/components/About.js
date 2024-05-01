@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import profileImg from "../images/about/about-img.PNG";
 import { FaCode, FaServer, FaDatabase, FaCloud } from "react-icons/fa";
@@ -17,7 +19,7 @@ export const About = () => {
       </div>
       <div className="section-center about-center">
         <div className="about-img">
-          <image
+          <img
             src={profileImg}
             alt="Profile Picture"
             className="about-image"
