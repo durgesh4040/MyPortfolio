@@ -6,11 +6,7 @@ import { FaCode, FaServer, FaDatabase, FaCloud } from "react-icons/fa";
 
 export const About = () => {
   return (
-    <section
-      id="about"
-      className="section about"
-      style={{ background: "#f5f5f5" }}
-    >
+    <section id="about" className="section about">
       <div className="section-title">
         <h2>
           About <span>Me</span>
