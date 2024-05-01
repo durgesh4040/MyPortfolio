@@ -3,10 +3,6 @@ import profileImg from "../images/about/about-img.PNG";
 import { FaCode, FaServer, FaDatabase, FaCloud } from "react-icons/fa";
 
 export const About = () => {
-  const age = Math.floor(
-    (new Date() - new Date("2001-08-04").getTime()) / 3.15576e10
-  );
-
   return (
     <section
       id="about"

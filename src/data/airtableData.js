@@ -118,7 +118,7 @@ const AIRTABLE_DATA = {
       iconUrl:
         "https://res.cloudinary.com/dds18bzdy/image/upload/v1711798741/yodkwtf.com/resources/res_zmaixq.png",
       title: "Download My Resume",
-      url: "https://drive.google.com/file/d/1FZsVXuPlx6ke8RyTuAceoXctC5prLD5F/view?usp=drive_link",
+      url: "https://drive.google.com/file/d/1UtzryBhYKJVpre5N5u-9Y5pF40SC-EEl/view?usp=drive_link",
       isLatest: true,
       hideField: false,
     },

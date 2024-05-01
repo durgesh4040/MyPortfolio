@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaShareSquare } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 const SingleProject = ({ title, imgUrl, url, github, stack }) => {
   return (

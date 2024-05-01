@@ -24,7 +24,7 @@ export const Navbar = () => {
         <ul className="nav-links">
           <NavLinks />
           <a
-            href="https://drive.google.com/file/d/1FZsVXuPlx6ke8RyTuAceoXctC5prLD5F/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1UtzryBhYKJVpre5N5u-9Y5pF40SC-EEl/view?usp=drive_link"
             className="link"
           >
             Resume
