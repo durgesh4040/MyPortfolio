@@ -2,7 +2,13 @@
 
 import React from "react";
 import profileImg from "../images/about/about-img.PNG";
-import { FaCode, FaServer, FaDatabase, FaCloud } from "react-icons/fa";
+import {
+  FaCode,
+  FaServer,
+  FaDatabase,
+  FaCloud,
+  FaHammer,
+} from "react-icons/fa";
 
 export const About = () => {
   return (
@@ -41,18 +47,22 @@ export const About = () => {
                 <FaCode /> <strong>Languages:</strong> Java, C++, JavaScript
               </li>
               <li>
-                <FaServer /> <strong>Frameworks & Libraries:</strong> Spring
-                Boot, React.js
+                <FaServer /> <strong>Frameworks:</strong> Spring Boot, Spring
+                Security
               </li>
               <li>
-                <strong>Tools:</strong> Postman, Docker, Git
+                <FaServer /> <strong>Libraries:</strong>
+                React.js, Pandas ,Numpy , Matplotlib
+              </li>
+              <li>
+                <FaHammer /> <strong>Tools:</strong> Postman, Docker, Git
               </li>
               <li>
                 <FaDatabase /> <strong>Database:</strong> MySQL, MongoDB
               </li>
               <li>
-                <FaCloud /> <strong>Cloud Providers:</strong> Firebase, Railway,
-                Vercel
+                <FaCloud /> <strong>Hosting Providers:</strong>Firebase,
+                Railway, Vercel
               </li>
             </ul>
           </div>
