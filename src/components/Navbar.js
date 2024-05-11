@@ -23,12 +23,14 @@ export const Navbar = () => {
         {/* nav-links */}
         <ul className="nav-links">
           <NavLinks />
-          <a
-            href="https://drive.google.com/file/d/1UtzryBhYKJVpre5N5u-9Y5pF40SC-EEl/view?usp=drive_link"
-            className="link"
-          >
-            Resume
-          </a>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1UtzryBhYKJVpre5N5u-9Y5pF40SC-EEl/view?usp=drive_link"
+              className="link"
+            >
+              Resume
+            </a>
+          </div>
         </ul>
         <ToggleTheme />
       </div>

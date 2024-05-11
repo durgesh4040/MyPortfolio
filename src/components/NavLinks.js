@@ -1,6 +1,6 @@
-import React from 'react';
-import { navLinks } from '../data/utils';
-import { AppContext } from '../context';
+import React from "react";
+import { navLinks } from "../data/utils";
+import { AppContext } from "../context";
 
 const NavLinks = () => {
   // function from context
