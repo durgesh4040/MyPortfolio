@@ -29,7 +29,7 @@ export const Sidebar = () => {
       <ul className="sidebar-links">
         <NavLinks />
         <a
-          href="https://drive.google.com/file/d/1UtzryBhYKJVpre5N5u-9Y5pF40SC-EEl/view?usp=sharing"
+          href="https://drive.google.com/file/d/1QapkYf5A_00mfU4DRp60J8ETIyBBZMxV/view?usp=sharing"
           className="link"
         >
           Resume
